@@ -1,0 +1,24 @@
+header{
+   text-align: center;
+    padding: 1em;
+    background-color: black;
+    
+}
+h1{
+    color: aliceblue;
+    
+}
+h2{
+    color: beige;
+}
+main{
+    padding: 1em;
+    background-color: lightgrey;
+    color: rgb(101, 64, 0);
+}
+body{
+    margin: 0;
+    background-image: url(https://raw.githubusercontent.com/PrimeAcademy/assignment-unit-5.2/main/assignment/record.png);
+    background-repeat: round;
+    background-color: lightslategrey;
+}
